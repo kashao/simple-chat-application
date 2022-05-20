@@ -3,9 +3,9 @@
 
 It's a simple demo for easier understand the chat messages design. 
 
-Especially, you want to use bootstrap 5 for any deployment
+Especially, you want to use bootstrap 5 for any deployment.
 
-head for bootstrap 5, ajax import.
+Bootstrap 5, ajax import in index.html.
 
 Sample View
 ![Sample](https://github.com/kashao/simple-chat-application/blob/main/sample.png)
